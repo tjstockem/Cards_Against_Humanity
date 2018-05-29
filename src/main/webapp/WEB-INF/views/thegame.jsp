@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>A really shitty Cards Against Humanity clone</title>
+<title>Lets Play Cards!</title>
 </head>
 <body>
-HEY HO LETS GO
+${hand}     ${numCards}    ${numCards2}
 </body>
 </html>
